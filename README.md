@@ -14,8 +14,8 @@ Esta guía, sin embargo, puede servir para la configuración de la wallet Metama
 * [CONFIGURAR LA REDES (NETWORKS) POLYGON - MAINNET Y MUMBAI TESTNET](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#configurar-la-redes-networks-polygon---mainnet-y-mumbai-testnet)
   * [Opción 1 - Método automático](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#opci%C3%B3n-1---m%C3%A9todo-autom%C3%A1tico-m%C3%A1s-sencillo-funciona-perfectamente-con-la-extension-del-navegador-en-pc-no-funciona-tan-bien-en-la-app-m%C3%B3vil)
   * [Opción 2 - Método manual](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#opci%C3%B3n-2---m%C3%A9todo-manual--es-el-mejor-para-la-app-m%C3%B3vil-puede-usarse-tambien-en-la-extensi%C3%B3n-del-navegador)
-   * [Extension del navegador](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#extension-del-navegador)  
-   * [App móvil](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#app-m%C3%B3vil)
+   * [Método manual para Extension del navegador](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#extension-del-navegador)  
+   * [Método manual para App móvil](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#app-m%C3%B3vil)
    * [Datos de Polygon para agregar las redes de forma manual](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#datos-de-polygon-para-agregar-las-redes-de-forma-manual) 
 * [OBTENER TOKENS PARA LAS TRANSACCIONES](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#obtener-tokens-para-las-transacciones)
   * [MATIC EN MAINNET](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#matic-en-mainnet)
@@ -132,9 +132,15 @@ Estos datos se suministrarán en cada ensayo/actividad ya que serán diferentes 
 ### "VISUALIZAR" TUS NFTs
 
 A continuación una de las forma más sencillas para "visualizar tus NFTs desde un sitio web llamado Opensea:
-1. Abre el sitio web opensea.com (si el NFT está en la red mainnet) o el sitio testsnets.opensea.com (si el NFT esta en la red testnet) preferiblemente con un VPN activado (el navegador OPERA tiene VPN integrado muy fácil de usar, o descarga Proton VPN en tu equipo y lo activas para poder acceder a Opensea)
-2. Una vez en el sitio web, *CONECTA* TU WALLET abre tu perfil (arriba a la dercha) ve a "MIS COLECCIONES" Y PODRÁS "VER" TUS NFTs directamente allí.
-NOTA: la wallet debe estar en la red donde se creó el NFT para verlo, y sólo podrás "ver" los NFTs que estén en esa wallet y en esa red en particular.
+1. Abre el sitio web opensea, un marketplace que te permite conectar tu wallet y "ver" los NFTs que tienes en ella
+   * si el NFT está en la red mainnet abre el sitio [opensea.com](https://opensea.com)
+   * si el NFT esta en la red testnet abre el sitio [testsnets.opensea.com](https://testnets.opensea.com)
+2. Una vez en el sitio web, *CONECTA TU WALLET Metamask* 
+3. Abre tu perfil (arriba a la derecha) haz click en "MIS COLECCIONES" Y PODRÁS "VER" TUS NFTs directamente allí.
+
+**NOTAS IMPORTANTES:** 
+* La wallet debe estar en la red donde se creó el NFT para verlo, ya que sólo podrás "ver" los NFTs que estén en esa wallet y en esa red en particular.
+* Abre Opensea preferiblemente con un VPN activado (el navegador [CRYPTO OPERA](https://www.opera.com/es/crypto/next) tiene VPN integrado muy fácil de usar, o descarga [Proton VPN](https://protonvpn.com/es_la/) en tu equipo y lo activas para poder acceder a Opensea)
 
 ==========================================================================
 
