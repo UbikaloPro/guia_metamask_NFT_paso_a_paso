@@ -133,10 +133,10 @@ Estos datos se suministrarán en cada ensayo/actividad ya que serán diferentes 
 
 A continuación una de las forma más sencillas para "visualizar tus NFTs desde un sitio web llamado Opensea:
 1. Abre el sitio web opensea, un marketplace que te permite conectar tu wallet y "ver" los NFTs que tienes en ella
-   * si el NFT está en la red mainnet abre el sitio [opensea.com](https://opensea.com)
-   * si el NFT esta en la red testnet abre el sitio [testsnets.opensea.io]([https://testnets.opensea.com](https://testnets.opensea.io))
+   * si el NFT está en la red mainnet abre el sitio [opensea.io](https://opensea.io)
+   * si el NFT esta en la red testnet abre el sitio [testnets.opensea.io](https://testnets.opensea.com)
 2. Una vez en el sitio web, *CONECTA TU WALLET Metamask* 
-3. Abre tu perfil (arriba a la derecha) haz click en "MIS COLECCIONES" Y PODRÁS "VER" TUS NFTs directamente allí.
+3. Abre tu perfil (arriba a la derecha) haz click en "My profile" y podrás ver tus NFTs en "Collected".
 
 **NOTAS IMPORTANTES:** 
 * La wallet debe estar en la red donde se creó el NFT para verlo, ya que sólo podrás "ver" los NFTs que estén en esa wallet y en esa red en particular.
