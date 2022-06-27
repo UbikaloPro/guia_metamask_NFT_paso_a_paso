@@ -6,9 +6,19 @@ La intención es principalmente para su uso en la comunidad educativa [Ubikalo L
 
 Esta guía, sin embargo, puede servir para la configuración de la wallet Metamask en general.
 
+*Tabla de contenido de esta guía*
+* [METAMASK, SITIOS OFICIALES DE DESCARGA](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#metamask-sitios-oficiales)
+* [VERSIONES DE METAMASK](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#versiones-de-metamask)
+* [DESCARGA E INSTALACIÓN DE METAMASK](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#descarga-e-instalaci%C3%B3n-de-metamask)
+* [ABRIR METAMASK](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#abrir-metamask)
+* [CONFIGURAR LA REDES (NETWORKS) POLYGON - MAINNET Y MUMBAI TESTNET](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#configurar-la-redes-networks-polygon---mainnet-y-mumbai-testnet)
+* [OBTENER TOKENS PARA LAS TRANSACCIONES](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#obtener-tokens-para-las-transacciones)
+* [AGREGAR LOS NFTs](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#agregar-los-nfts)
+* ["VISUALIZAR" TUS NFTs](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/edit/main/README.md#visualizar-tus-nfts)
+
 ==========================================================================
 
-### METAMASK, SITIOS OFICIALES
+### METAMASK, SITIOS OFICIALES DE DESCARGA
 
 La wallet Metamask puede (y debería) descargarse desde el sitio oficial: https://metamask.io/download/
 
@@ -96,7 +106,7 @@ Este token es dinero sin valor real, y se usa para probar, practicar y aprender 
 
 ==========================================================================
 
-#### AGREGAR LOS NFTs 
+### AGREGAR LOS NFTs A TU WALLET
 
 Estaremos probando y usando de forma práctica diferentes tipos de NFTs, los participantes puodrán ir obteniéndolos con regularidad y de acuerdo a su participación en los diferentes ensayos y/o en las actividades educativas y de comunidad que iremos realizando.
 
@@ -110,7 +120,11 @@ Estaremos probando y usando de forma práctica diferentes tipos de NFTs, los par
   * Decimales
 Estos datos se suministrarán en cada ensayo/actividad ya que serán diferentes en cada ocasión
 
-##### Para poder "visualizar" tus NFT, una de las formas más sencillas es la siguiente:
+==========================================================================
+
+### "VISUALIZAR" TUS NFTs
+
+A continuación una de las forma más sencillas para "visualizar tus NFTs desde un sitio web llamado Opensea:
 1. Abre el sitio web opensea.com (si el NFT está en la red mainnet) o el sitio testsnets.opensea.com (si el NFT esta en la red testnet) preferiblemente con un VPN activado (el navegador OPERA tiene VPN integrado muy fácil de usar, o descarga Proton VPN en tu equipo y lo activas para poder acceder a Opensea)
 2. Una vez en el sitio web, *CONECTA* TU WALLET abre tu perfil (arriba a la dercha) ve a "MIS COLECCIONES" Y PODRÁS "VER" TUS NFTs directamente allí.
 NOTA: la wallet debe estar en la red donde se creó el NFT para verlo, y sólo podrás "ver" los NFTs que estén en esa wallet y en esa red en particular.
