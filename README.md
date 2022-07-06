@@ -1,10 +1,18 @@
-# Guía para usar Metamask y NFT - paso a paso
+# Guía para reclamar los NFT de Ubikalo Latam
 
-Esta es una guia paso a paso en español para instalar la wallet Metamask, configurar las cuentas, la red Polygon testnet mumbai, agregar un token NFT y tener tokens Matic mumbai.
+#### ¿Qué son los NFT de Ubikalo Latam?
 
-La intención es principalmente para su uso en la comunidad educativa [Ubikalo Latam Telegram](https://t.me/UbikaloLatam) ya que en nuestro plan educativo estaremos entregando NFT como certificados de asistencia, asistencia/aporbación de nuestras actividades, y servirán como "badges" únicos y registrados en blockchain para quien los tenga en su wallet.
+En Ubikalo Latan hemos desarrollado varios tipos de NFT con diversas finalidades, uno de esos tipos es una "prueba de conocimiento".
 
-Esta guía, sin embargo, puede servir para la configuración de la wallet Metamask en general.
+En nuestro caso, nuestro programa educativo desde cero en finanzas personales, blockchain, tecnología y criptomonedas consta de una variedad muy amplia de material, actividades y tareas, todas pensadas en aprender con un lenguaje sencillo lo que necesitas en las áreasmencionadas para empezar a aprovechar las oportunidades y más importante aún, ¡**aprender haciendo**!
+
+Por cada paso que des en el programa educativo irás ganando NFTs como prueba de conocimiento y que servirán como insignias reales de tu aprendizaje, además pueden servir para acceder a privilegios destinados sólo a las personas que vayan acumulando cierto tipo de NFTs de Ubikalo Latam.
+
+#### ¿Necesitas ser experto para reclamar tus NFTs?
+
+La respuesta es no, precisamente elaboramos esta guía con los pasos necesarios para que desde el primer día puedas ir reclamando los NFTs que vayas obteniendo por tu aprendizaje en Ubikalo Latam. Esta guía es la más simple y funcional para ti si nunca has usado una wallet o no sabes qué es un NFT, también sirve para personas con un poco más de conocimiento. 
+
+Te recuerdo, sin embargo, que en nuestro programa tenemos actividades donde profundizamos temas como los NFTs, las wallets, ciberseguridad y más, así podrás tener la oportunidad de aprender mucho más alla de lo que está en esta guía.
 
 *Tabla de contenido de esta guía*
 * [METAMASK, SITIOS OFICIALES DE DESCARGA](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#metamask-sitios-oficiales)
@@ -25,13 +33,19 @@ Esta guía, sin embargo, puede servir para la configuración de la wallet Metama
 
 ==========================================================================
 
-### METAMASK, SITIOS OFICIALES DE DESCARGA
-
-La wallet Metamask puede (y debería) descargarse desde el sitio oficial: https://metamask.io/download/
+#### PASO 1 - Descargar, instalar y abrir la wallet Metamask
+ 1. Agregar la extensión a tu navegador favorito (recomendamos Opera crypto o Brave), o selecciona la versión móvil de tu dispositivo. En [Metamask.io](https://metamask.io/download/) y buscas la versión que vayas a usar.
+ 2. Instalas y abres Metamask
+ 3. Selecciona "Crear / Create" (esta es la opción que escogerás para abrir tu primera wallet Metamask)
+ 4. Crea una contraseña de acceso a la wallet (que sea segura y sencilla de recordar. No funciona para RESTAURAR la wallet sólo controla el acceso a la misma)
+ 5. Aceptar los términos y condiciones
+ 6. Revelar la frase semilla, aparecerá una serie de palabras que son la "llave" para controlar, acceder y restaurar la wallet y su contenido, es IMPORTANTE QUE ESCRIBAS EN PAPEL ESTA PALABRAS, NO SE RECOMIENDA HACERLO DE FORMA DIGITAL (TEXTO O FOTO), anótalas en papel y lapiz, guarda de forma segura y cuidala porque es la UNICA FORMA DE RESTAURAR la wallet y tener acceso a tus NFTs nuevamente.
+ 7. Confirmar la frase semilla para asegurarte que copiaste bien las palabras
+ 8. TU WALLET ESTA ACTIVA! FELICITACIONES!
 
 ==========================================================================
 
-### VERSIONES DE METAMASK
+### PASO 2 - ESCOGER LA VERSIÓN DE METAMASK PARA TI
 
 La wallet tiene versiones para usar como **EXTENSION DE NAVEGADORES WEB** y versiones **PARA DISPOSITIVOS MÓVILES ANDROID E iOS**, puedes usar la que más te convenga.
 
