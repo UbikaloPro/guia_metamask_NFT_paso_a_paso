@@ -15,21 +15,19 @@ La respuesta es no, precisamente elaboramos esta guía con los pasos necesarios 
 Te recuerdo, sin embargo, que en nuestro programa tenemos actividades donde profundizamos temas como los NFTs, las wallets, ciberseguridad y más, así podrás tener la oportunidad de aprender mucho más alla de lo que está en esta guía.
 
 *Tabla de contenido de esta guía*
-* [METAMASK, SITIOS OFICIALES DE DESCARGA](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#metamask-sitios-oficiales)
-* [VERSIONES DE METAMASK](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#versiones-de-metamask)
-* [DESCARGA E INSTALACIÓN DE METAMASK](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#descarga-e-instalaci%C3%B3n-de-metamask)
-* [ABRIR METAMASK](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#abrir-metamask)
-* [CONFIGURAR LA REDES (NETWORKS) POLYGON - MAINNET Y MUMBAI TESTNET](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#configurar-la-redes-networks-polygon---mainnet-y-mumbai-testnet)
-  * [Opción 1 - Método automático](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#opci%C3%B3n-1---m%C3%A9todo-autom%C3%A1tico-m%C3%A1s-sencillo-funciona-perfectamente-con-la-extension-del-navegador-en-pc-no-funciona-tan-bien-en-la-app-m%C3%B3vil)
-  * [Opción 2 - Método manual](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#opci%C3%B3n-2---m%C3%A9todo-manual--es-el-mejor-para-la-app-m%C3%B3vil-puede-usarse-tambien-en-la-extensi%C3%B3n-del-navegador)
+* [PASO 1 - DESCARGAR, INSTALAR, ABRIR LA WALLET METAMASK](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso#paso-1---descargar-instalar-abrir-la-wallet-metamask))
+* [PASO 2 - CONFIGURAR LA REDES (NETWORKS) POLYGON - MAINNET Y MUMBAI TESTNET](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso#paso-2---configurar-la-redes-networks-polygon---mainnet-y-mumbai-testnet)
+  * [Opción 1 - Método automático](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso#opci%C3%B3n-1---m%C3%A9todo-autom%C3%A1tico-m%C3%A1s-sencillo-funciona-perfectamente-con-la-extension-del-navegador-en-pc-no-se-recomienda-para-la-versi%C3%B3n-m%C3%B3vil)
+  * [Opción 2 - Método manual](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso#opci%C3%B3n-2---m%C3%A9todo-manual--es-el-mejor-para-la-versi%C3%B3n-m%C3%B3vil-puede-usarse-opcionalmente-en-la-extensi%C3%B3n-del-navegador)
    * [Método manual para Extension del navegador](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#extension-del-navegador)  
    * [Método manual para App móvil](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#app-m%C3%B3vil)
    * [Datos de Polygon para agregar las redes de forma manual](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#datos-de-polygon-para-agregar-las-redes-de-forma-manual) 
-* [OBTENER TOKENS PARA LAS TRANSACCIONES](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#obtener-tokens-para-las-transacciones)
+* [PASO 3 - OBTENER TOKENS MATIC PARA PAGAR LAS TRANSACCIONES](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso#paso-3---obtener-tokens-matic-para-pagar-las-transacciones)
   * [MATIC EN MAINNET](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#matic-en-mainnet)
   * [MATIC EN TESTNET](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#matic-en-testnet)  
-* [AGREGAR LOS NFTs](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#agregar-los-nfts)
-* ["VISUALIZAR" TUS NFTs](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/edit/main/README.md#visualizar-tus-nfts)
+* [PASO 4 - RECLAMAR (MINT) TU TOKEN NFT UBIKALO LATAM](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso#paso-4---reclamar-mint-tu-token-nft-ubikalo-latam)
+* [PASO - 5 AGREGAR LOS DATOS DE LOS NFTs A TU WALLET COMO ACTIVOS](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso#paso---5-agregar-los-datos-de-los-nfts-a-tu-wallet-como-activos)
+* [PASO 6 - "VISUALIZAR" TUS NFTs EN OPENSEA](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso#paso-6---visualizar-tus-nfts-en-opensea)
 
 ==========================================================================
 
@@ -122,7 +120,7 @@ Estaremos probando y usando de forma práctica diferentes tipos de NFTs, los par
 
 ### PASO 6 - "VISUALIZAR" TUS NFTs EN OPENSEA
 
-A continuación una de las forma más sencilla para "visualizar tus NFTs desde un sitio web llamado Opensea:
+A continuación una de las formas más sencillas para "visualizar tus NFTs" usando un sitio web llamado Opensea:
 1. Abre el sitio web opensea, un marketplace que te permite conectar tu wallet y "ver" los NFTs que tienes en ella
    * si el NFT está en la red mainnet abre el sitio [opensea.io](https://opensea.io)
    * si el NFT esta en la red testnet abre el sitio [testnets.opensea.io](https://testnets.opensea.com)
