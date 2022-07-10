@@ -15,20 +15,20 @@ La respuesta es no, precisamente elaboramos esta guía con los pasos necesarios 
 Te recuerdo, sin embargo, que en nuestro programa tenemos actividades donde profundizamos temas como los NFTs, las wallets, ciberseguridad y más, así podrás tener la oportunidad de aprender mucho más alla de lo que está en esta guía.
 
 *Tabla de contenido de esta guía*
-* [PASO 1 - DESCARGAR, INSTALAR, ABRIR LA WALLET METAMASK](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso#paso-1---descargar-instalar-abrir-la-wallet-metamask))
-* [PASO 2 - CONFIGURAR LA REDES (NETWORKS) POLYGON - MAINNET Y MUMBAI TESTNET](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso#paso-2---configurar-la-redes-networks-polygon---mainnet-y-mumbai-testnet)
-  * [Opción 1 - Método automático](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso#opci%C3%B3n-1---m%C3%A9todo-autom%C3%A1tico-m%C3%A1s-sencillo-funciona-perfectamente-con-la-extension-del-navegador-en-pc-no-se-recomienda-para-la-versi%C3%B3n-m%C3%B3vil)
-  * [Opción 2 - Método manual](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso#opci%C3%B3n-2---m%C3%A9todo-manual--es-el-mejor-para-la-versi%C3%B3n-m%C3%B3vil-puede-usarse-opcionalmente-en-la-extensi%C3%B3n-del-navegador)
+* [PASO 1 - DESCARGAR, INSTALAR, ABRIR LA WALLET METAMASK](https://ubikalopro.github.io/guia_metamask_NFT_paso_a_paso/#paso-1---descargar-instalar-abrir-la-wallet-metamask)
+* [PASO 2 - CONFIGURAR LA REDES (NETWORKS) POLYGON - MAINNET Y MUMBAI TESTNET](https://ubikalopro.github.io/guia_metamask_NFT_paso_a_paso/#paso-2---configurar-la-redes-networks-polygon---mainnet-y-mumbai-testnet)
+  * [Opción 1 - Método automático](https://ubikalopro.github.io/guia_metamask_NFT_paso_a_paso/#opci%C3%B3n-1---m%C3%A9todo-autom%C3%A1tico-m%C3%A1s-sencillo-funciona-perfectamente-con-la-extension-del-navegador-en-pc-no-se-recomienda-para-la-versi%C3%B3n-m%C3%B3vil)
+  * [Opción 2 - Método manual](https://ubikalopro.github.io/guia_metamask_NFT_paso_a_paso/#opci%C3%B3n-2---m%C3%A9todo-manual--es-el-mejor-para-la-versi%C3%B3n-m%C3%B3vil-puede-usarse-opcionalmente-en-la-extensi%C3%B3n-del-navegador)
    * [Método manual para Extension del navegador](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#extension-del-navegador)  
    * [Método manual para App móvil](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#app-m%C3%B3vil)
    * [Datos de Polygon para agregar las redes de forma manual](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#datos-de-polygon-para-agregar-las-redes-de-forma-manual) 
-* [PASO 3 - OBTENER TOKENS PARA PAGAR LAS TRANSACCIONES](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso#paso-3---obtener-tokens-matic-para-pagar-las-transacciones)
-  * [MATIC EN MAINNET](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#matic-en-mainnet)
-  * [MATIC EN TESTNET](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#matic-en-testnet)
-  * [ETH RINKEBY EN TESNET](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/README.md#eth-en-rinkeby-testnet)  
-* [PASO 4 - RECLAMAR (MINT) TU TOKEN NFT UBIKALO LATAM](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso#paso-4---reclamar-mint-tu-token-nft-ubikalo-latam)
-* [PASO - 5 AGREGAR LOS DATOS DE LOS NFTs A TU WALLET COMO ACTIVOS](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso#paso---5-agregar-los-datos-de-los-nfts-a-tu-wallet-como-activos)
-* [PASO 6 - "VISUALIZAR" TUS NFTs EN OPENSEA](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso#paso-6---visualizar-tus-nfts-en-opensea)
+* [PASO 3 - OBTENER TOKENS PARA PAGAR LAS TRANSACCIONES](https://ubikalopro.github.io/guia_metamask_NFT_paso_a_paso/#paso-3---obtener-tokens-para-pagar-las-transacciones)
+  * [MATIC EN TESTNET](https://ubikalopro.github.io/guia_metamask_NFT_paso_a_paso/#matic-en-testnet)
+  * [MATIC Y ETH EN MAINNET](https://ubikalopro.github.io/guia_metamask_NFT_paso_a_paso/#matic-en-mainnet)
+  * [ETH RINKEBY EN TESNET](https://ubikalopro.github.io/guia_metamask_NFT_paso_a_paso/#eth-en-rinkeby-testnet)
+* [PASO 4 - RECLAMAR (MINT) TU TOKEN NFT UBIKALO LATAM](https://ubikalopro.github.io/guia_metamask_NFT_paso_a_paso/#paso-4---reclamar-mint-tu-token-nft-ubikalo-latam)
+* [PASO - 5 AGREGAR LOS DATOS DE LOS NFTs A TU WALLET COMO ACTIVOS](https://ubikalopro.github.io/guia_metamask_NFT_paso_a_paso/#paso---5-agregar-los-datos-de-los-nfts-a-tu-wallet-como-activos)
+* [PASO 6 - "VISUALIZAR" TUS NFTs EN OPENSEA](https://ubikalopro.github.io/guia_metamask_NFT_paso_a_paso/#paso-6---visualizar-tus-nfts-en-opensea)
 
 ==========================================================================
 
@@ -58,13 +58,13 @@ Para el propósito de esta guía vamos a aprender a agregar las redes de Polygon
 5. Se abrirá tu wallet, acepta y la red se agregará de forma automática a la wallet
 
 ##### Opción 2 - Método manual , ES EL MEJOR PARA LA VERSIÓN MÓVIL, PUEDE USARSE OPCIONALMENTE EN LA EXTENSIÓN DEL NAVEGADOR
-** Extension del navegador
+**Extension del navegador
 1. Abrir la wallet
 2. En la parte superior, en el centro, hay un boton que indica en qué red esta la wallet en este momento, haz click alli y se abre un menú desplegable
 3. En la parte inferior del menú hay un botón que indica "AGREGAR RED", haz click allí y se abrira una ventana con varios campos que debes llenar manualmente con los datos de lared que vas a agregar, en este enlace podrás ver los datos para la mainnet de Polygon y acá los datos de la testnet Polygon mumbai testnet.
 4. Agregar los datos y darle al boton "AGREGAR".
 
-** Versión móvil
+**Versión móvil
 1. Abrir la wallet
 2. En la parte superior izquierda hay un menú desplegable , haz click en él.
 3. En la parte inferior del menú hay un botón que dice "CONFIGURACIÓN", haz click allí y se abre un nuevo menú, busca "REDES" y haz click allí
