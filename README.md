@@ -138,3 +138,5 @@ Espero que esta guía te sirva para nuestra comunidad y para su uso en general, 
 Tenemos mucho material y minicursos en video en [nuestros canales oficiales](https://lnk.bio/ubikalo)
 
 # Seguimos enseñando, creyendo, creando y sembrando, ¡Esto apenas comienza!
+
+[prueba](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/index.html)
