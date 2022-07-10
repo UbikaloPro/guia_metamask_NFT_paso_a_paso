@@ -85,7 +85,7 @@ _TESTNET_
 
 ==========================================================================
 
-### PASO 3 - OBTENER TOKENS MATIC PARA PAGAR LAS TRANSACCIONES
+### PASO 3 - OBTENER TOKENS PARA PAGAR LAS TRANSACCIONES
 
 Las transacciones que se realizan en la Blockchain deben pagar un "fee" o comisión en la moneda nativa de la red, en nuestro caso necesitas tener MATIC tanto en la red mainnet como en la red testnet.
 
@@ -96,18 +96,20 @@ Este token es dinero sin valor real, y se usa para probar, practicar y aprender 
 Este token es dinero real, tiene valor real y se obtiene a través de intercambios en [Swap4.me](https://t.me/swap4me) o en Binance por darte dos opciones.
 Debes proporcionar la dirección de tu wallet Metamask para recibirlos allí
 
+##### ETH EN RINKEBY TESTNET
+Este token es dinero sin valor real, y se usa para probar, practicar y aprender sin tener que invertir dinero. este token se obtine de forma gratuita desde "faucets" o grifos como estos dos [Rinkeby faucet](https://rinkebyfaucet.com/)
 
 ==========================================================================
 
 ### PASO 4 - RECLAMAR (MINT) TU TOKEN NFT UBIKALO LATAM
 
+**NO RECOMENDAMOS HACER EL PROCESO TOTALMENTE EN EL TELÉFONO, hemos visto algunos reportes de errores con este proceso, es mejor abrir el sitio en la PC y conectar la wallet móvil con el QR"**
+
 1. Ir a la página de reclamo o "minteo" que este diseñada para cada proceso 
 2. Conectar la wallet con el sitio web, recomendamos lo siguiente:
-   1. Opción 1 - Metamask de navegador: abrir el sitio de "minteo", conectar la wallet, al abrir la wallet en el navegador, "APROBAR" la conección y proceder a reclamar el o los NFTs
+   1. Opción 1 - Metamask de navegador: abrir el sitio de "minteo", conectar la wallet, al abrir la wallet en el navegador, "APROBAR" la conexión y proceder a reclamar el o los NFTs
    2. Opción 2 - Metamask móvil: abrir el sitio de "minteo" en una PC, conectar la wallet usando "WALLET CONNECT" escaneando el código QR que aparecerá y proceder a reclamar tu(s) NFTs
-3. Aprobar la transacción en la wallet y listo! (debes tener saldo en MATIC en la wallet para este proceso)
-
-**NO RECOMENDAMOS HACER EL PROCESO TOTLAMENTE EN EL TELÉFONO, hemos visto reportes de errores con este proceso, es mejor abrir el sitio en la PC y conectar la wallet móvil con el QR"
+3. Aprobar la transacción en la wallet (debes tener saldo en MATIC o en ETH Rinkeby en la wallet para este proceso) y listo!
 
 =========================================================================
 
@@ -123,7 +125,7 @@ Estaremos probando y usando de forma práctica diferentes tipos de NFTs, los par
 A continuación una de las formas más sencillas para "visualizar tus NFTs" usando un sitio web llamado Opensea:
 1. Abre el sitio web opensea, un marketplace que te permite conectar tu wallet y "ver" los NFTs que tienes en ella
    * si el NFT está en la red mainnet abre el sitio [opensea.io](https://opensea.io)
-   * si el NFT esta en la red testnet abre el sitio [testnets.opensea.io](https://testnets.opensea.com)
+   * si el NFT esta en la red testnet (Mumbai o Rinkeby)abre el sitio [testnets.opensea.io](https://testnets.opensea.com)
 2. Una vez en el sitio web, *CONECTA TU WALLET Metamask* 
 3. Abre tu perfil (arriba a la derecha) haz click en "My profile" y podrás ver tus NFTs en "Collected".
 
@@ -139,5 +141,4 @@ Tenemos mucho material y minicursos en video en [nuestros canales oficiales](htt
 
 # Seguimos enseñando, creyendo, creando y sembrando, ¡Esto apenas comienza!
 
-[prueba](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/extension_navegador)
-[md](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/extension_navegador.md)
+[Para dudas, preguntas, comentarios te dejamos el enlace a Ubikalo Soporte en Telegram](https://t.me/ubikalosoporte)
