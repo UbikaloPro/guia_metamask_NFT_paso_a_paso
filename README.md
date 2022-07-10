@@ -139,4 +139,4 @@ Tenemos mucho material y minicursos en video en [nuestros canales oficiales](htt
 
 # Seguimos enseñando, creyendo, creando y sembrando, ¡Esto apenas comienza!
 
-[prueba](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/index.html)
+[prueba](https://github.com/UbikaloPro/guia_metamask_NFT_paso_a_paso/blob/main/extension_navegador)
